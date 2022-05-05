@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.andresfgomez86.pwatest",
+            "sha256_cert_fingerprints": [
+                "FF:19:DC:09:5D:D6:C5:18:CC:91:85:6D:56:6E:71:16:AC:C1:CA:13:84:22:71:73:AF:FC:A2:E0:FC:D9:3F:E0"
+            ]
+        }
+    }
+]
