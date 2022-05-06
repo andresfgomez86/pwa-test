@@ -31,7 +31,7 @@ function App() {
             </Typography>
           </CardContent>
           <CardActions>
-            <Button size="small">Learn More</Button>
+            <Button size="small" variant="outlined">Learn More</Button>
           </CardActions>
         </Card>
       </header>
